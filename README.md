@@ -1,4 +1,4 @@
-# sprint7-final-project
+# Sprint 7- Final Project
 Proyecto Final sprint 7 TripleTen
 
 Proyecto de Análisis de Clientes - ConnectaTel
