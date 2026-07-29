@@ -38,4 +38,5 @@ ETAPADS DEL PROYECTO
 - Segmentación de clientes por edad y nivel de uso.
 - Insights y recomendaciones
 - Identificación de segmentos de clientes.
+
 Proyecto desarrollado como parte del proceso de aprendizaje en análisis de datos, aplicando técnicas de limpieza, transformación, análisis exploratorio de datos (EDA) y generación de insights para apoyar la toma de decisiones.
